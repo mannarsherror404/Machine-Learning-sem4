@@ -25,9 +25,9 @@ This repository contains lab experiments from the **Machine Learning** course at
 - Applied One-Hot and Label Encoding on categorical data in the Adults dataset
 
 **Exp 3A & 3B — [Add brief description here once confirmed]**  
-*(e.g., Linear Regression, Multiple Regression, or Clustering)*
+will be updated soon 
 
-**Exp 5 — [Add brief description here once confirmed]*
+**Exp 5 — will be updated soon 
 
 **Exp 7 — K-Nearest Neighbors (K-NN) Classifier**  
 - Built a K-NN classifier using different `k` values (3, 5, 7, 9, etc.)  
@@ -35,9 +35,9 @@ This repository contains lab experiments from the **Machine Learning** course at
 - Evaluated performance with confusion matrix and accuracy score  
 - Visualized predictions and discussed accuracy for different `k`
 
-**Exp 8 — [Add brief description here once confirmed]*
+**Exp 8 — will be updated soon 
 
-**Exp 9 — [Add brief description here once confirmed]*
+**Exp 9 — will be updated soon 
 
 ---
 
